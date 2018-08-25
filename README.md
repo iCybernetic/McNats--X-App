@@ -1,2 +1,2 @@
-# McNats--X-App
+# McNats-X-App
 McNaturals Uber-X APP
